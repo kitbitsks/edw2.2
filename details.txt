@@ -1,0 +1,9 @@
+github page link:-
+---------------------------------
+https://souravkitkat2706.github.io/edw2.2/
+---------------------------------
+
+=>initial page is a main page view with some unread messages
+=>on successfull clicking on whatsapp logo it redirects to another main page with all chat messages
+=>when user clicks on "Shyam", he/she is redirected to an individual message page view
+=>clicking on the "jerry" icon/image the change of profile page view with option to upload the user image is displayed

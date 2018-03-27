@@ -1,0 +1,61 @@
+body{
+	display: relative
+}
+p{
+	font-size: 1em
+}
+
+small{
+	font-size: 0.7em
+}
+
+h5{
+	font-size: 1em
+}
+
+h2{
+	font-family: 'Indie Flower', cursive;
+}
+
+.col1{
+	width: 35%;
+}
+
+.col2{
+	width: 50%;
+}
+
+.container1{
+	width: 100%;
+	height: 100px;
+	background-color: #00BFA5;
+	color: #F2FCFA;
+}
+
+
+@media screen and (max-width: 650px) {
+	#td{
+		display :  none;
+	}
+	.col1 {
+		width: 0%;
+	}
+	.col2 {
+		width: 100%;
+	}
+}
+
+#jj
+{
+	position: relative;
+	height: 4em;
+	width: 4em;
+}
+
+.footer{
+	position: relative;
+	top: 19em;
+	width: 100%;
+	height: 100px;
+	line-height: 100px;
+}

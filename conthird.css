@@ -1,0 +1,58 @@
+body{
+	display: relative;
+}
+p{
+	font-size: 1em
+}
+small{
+	font-size: 0.7em
+}
+h5{
+	font-size: 1em
+}
+.container1{
+	width: 100%;
+	height: 100px;
+	background-color: #00BFA5;
+	color: #F2FCFA;
+}
+
+.col1{
+	width: 35%;
+}
+
+.col2{
+	width: 65%;
+}
+h2{
+	font-family: 'Indie Flower', cursive;
+}
+@media screen and (max-width: 650px) {
+	#th{
+		display :  none;
+	}
+	.col1 {
+		width: 100%;
+	}
+	.col2 {
+		width: 0%;
+	}
+	#shri {
+		display : none;
+	}
+}
+#th{
+	background-color: white;
+}
+#rr {
+ position: relative;
+ height: auto;
+	
+}
+
+#jj
+{
+	position: relative;
+	width: 70%;
+	height: auto;
+}
